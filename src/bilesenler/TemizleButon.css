@@ -1,0 +1,12 @@
+.temizle-btn{
+    display: flex;
+    height: 4em;
+    flex: 1 1;
+    justify-content: center;
+    align-items: center;
+    font-weight: lighter;
+    font-size: 1.5em;
+    background-color: #ffe576;
+    color: #111;
+    outline: 1px solid #888;
+}

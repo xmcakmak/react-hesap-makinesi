@@ -1,0 +1,13 @@
+.ekran{
+    display: flex;
+    height: 4em;
+    flex: 1 1;
+    background-color: #303841;
+    outline: 1px solid #888;
+    color: #fff;
+    justify-content: flex-end;
+    padding: 0.5em;
+    font-weight: bold;
+    font-size: 1.5em;
+    align-items: center;
+}
