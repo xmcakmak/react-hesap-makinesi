@@ -12,9 +12,10 @@ hesap_makinesi dizini içerisinde terminalden npm'i başlatıyoruz.
 npm start
 ```
 Ve sonrasında tarayıcımızda uygulama çalışıyor.
+Demo için tıklayın;<br>
+https://codesandbox.io/embed/github/resortcoder/react-hesap-makinesi/tree/master/?fontsize=14&hidenavigation=1&theme=dark
+
 <p align="center">
   <img src="ss.png">
 </p>
 
-Demo;
-https://codesandbox.io/embed/github/resortcoder/react-hesap-makinesi/tree/master/?fontsize=14&hidenavigation=1&theme=dark
