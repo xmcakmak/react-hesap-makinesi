@@ -13,7 +13,10 @@ npm start
 ```
 Ve sonrasında tarayıcımızda uygulama çalışıyor.<br><br>
 Demo link;<br>
-https://h80kj.csb.app/
+<a href="https://h80kj.csb.app/" target="_blank">Link</><br>
+Proje Görünümü;<br>
+https://codesandbox.io/embed/github/resortcoder/react-hesap-makinesi/
+<br>
 <p align="center">
   <img src="ss.png">
 </p>
