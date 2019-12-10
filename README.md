@@ -11,7 +11,7 @@ hesap_makinesi dizini içerisinde terminalden npm'i başlatıyoruz.
 ``` js
 npm start
 ```
-Ve sonrasında tarayıcımızda uygulama çalışıyor.<br>
+Ve sonrasında tarayıcımızda uygulama çalışıyor.<br><br>
 Demo link;<br>
 https://codesandbox.io/embed/github/resortcoder/react-hesap-makinesi/tree/master/?fontsize=14&hidenavigation=1&theme=dark
 
