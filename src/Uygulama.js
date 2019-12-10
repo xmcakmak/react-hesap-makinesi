@@ -1,14 +1,17 @@
 import React,  { Component } from 'react';
 import './Uygulama.css';
+import Buton from './bilesenler/Buton';
 import Ekran from './bilesenler/Ekran';
 import TemizleButon from './bilesenler/TemizleButon';
+
 class Uygulama extends Component {
   constructor(props){
     super(props);
-      ekran: "",
-      oncekiSayi: "",
-      sonrakiSayi: "",
-      islem: ""
+    this.state = {
+      ekran : "",
+      oncekiSayi : "",
+      sonrakiSayi : "",
+      islem : ""
     };
   }
 
