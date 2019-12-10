@@ -12,9 +12,9 @@ hesap_makinesi dizini içerisinde terminalden npm'i başlatıyoruz.
 npm start
 ```
 Ve sonrasında tarayıcımızda uygulama çalışıyor.<br><br>
-Demo link;<br>
+Demo link; 
 <a href="https://h80kj.csb.app/" target="_blank">Link</a><br>
-Proje Görünümü;<br>
+Proje Görünümü; 
 https://codesandbox.io/embed/github/resortcoder/react-hesap-makinesi/
 <br>
 <p align="center">
