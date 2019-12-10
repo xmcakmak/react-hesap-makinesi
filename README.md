@@ -13,8 +13,7 @@ npm start
 ```
 Ve sonrasında tarayıcımızda uygulama çalışıyor.<br><br>
 Demo link;<br>
-https://codesandbox.io/embed/github/resortcoder/react-hesap-makinesi/tree/master/?fontsize=14&hidenavigation=1&theme=dark
-
+https://h80kj.csb.app/
 <p align="center">
   <img src="ss.png">
 </p>
